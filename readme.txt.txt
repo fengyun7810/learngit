@@ -5,4 +5,4 @@ Git tracks changes
 dada
 dededdddddddd
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
